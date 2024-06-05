@@ -1,1 +1,7 @@
-안녕하세요 👋🏻, 준비 중이에요 잠시만 기다려주세요 :)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jjhox"
+  width="600"
+  height="300"
+/>
+</a>
